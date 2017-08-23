@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    <translationContributors>
+        Timmiej93
+    </translationContributors>
+
+    <texts>
+        <text name="T93_WTF_StartDump" text="Start leging" />
+        <text name="T93_WTF_StopDump" text="Stop leging" />
+    </texts>
+</l10n>
