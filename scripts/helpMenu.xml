@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+
+<helpMenu version="1.0" >
+	<helpMenuCategory author="Timmiej93" title="T93_Help_Main_CategoryTitle" >
+
+		<!-- Main T93 Section -->
+		<helpLine mainSection="true" title="T93_Help_Main_Title" >
+			<item type="text" value="T93_Help_Main_01" />
+			<item type="text" value="T93_Help_Main_02" />
+			<item type="text" value="T93_Help_Main_03" />
+			<item type="text" value="T93_Help_Main_04" />
+			<item type="text" value="T93_Help_Main_05" />
+		</helpLine>
+
+		<!-- Mod section -->
+		<helpLine title="T93_Help_WTF_Title" >
+			<item type="text" value="T93_Help_WTF_01" />
+			<item type="text" value="T93_Help_WTF_02" />
+			<item type="text" value="T93_Help_WTF_03" />
+			<item type="text" value="T93_Help_WTF_04" />
+			<item type="text" value="T93_Help_WTF_05" />
+			<item type="text" value="T93_Help_WTF_06" />
+			<item type="text" value="T93_Help_WTF_07" />
+			<item type="text" value="T93_Help_WTF_08" />
+			<item type="text" value="T93_Help_WTF_09" />
+		</helpLine>
+	</helpMenuCategory>
+</helpMenu>

@@ -5,7 +5,30 @@
     </translationContributors>
 
     <texts>
+        <!-- In-game text -->
         <text name="T93_WTF_StartDump" text="Commencer à égoutter" />
         <text name="T93_WTF_StopDump" text="Arrête de drainer" />
+
+        <!-- Help menu -->
+        <!-- Main section -->
+        <text name="T93_Help_Main_CategoryTitle" text="T93 Mods" />
+        <text name="T93_Help_Main_Title" text="T93 Mods" />
+        <text name="T93_Help_Main_01" text="Salut. Je suis Tim, surtout connu sous le nom Timmiej93, et je fais quelques mods, principalement des scripts." />
+        <text name="T93_Help_Main_02" text="Si vous lisez ceci, vous avez installé l'un de mes mods (merci pour cela). Cette section d'aide s'effectue automatiquement avec chaque mod de mine que vous installez." />
+        <text name="T93_Help_Main_03" text="Dans cette section d'aide, vous pouvez trouver une description et des informations utiles pour chacun de mes mods. Espérons que cela aide." />
+        <text name="T93_Help_Main_04" text="Si vous rencontrez des problèmes avec mes mods, vous pouvez me contacter sous mon surnom normal (Timmiej93) sur la plupart des plateformes Farming Simulator (De préférence en anglais ou en néerlandais): GIANTS Forum, FS-UK Forum, Modhoster, etc.." />
+        <text name="T93_Help_Main_05" text="Dans le cas où vous souhaitez contribuer à l'un de mes mods, même quelque chose de petit comme une traduction (Par exemple le français, c'est tout le google traduit), n'hésitez pas à consulter ma page Github, encore sous mon surnom normal Timmiej93." />
+
+        <!-- Mod specific -->
+        <text name="T93_Help_WTF_Title" text="Remorque d'eau fix" />
+        <text name="T93_Help_WTF_01" text="Le modèle WaterTrailerFix est très simple, il vous permet seulement de vider votre remorque liquides." />
+        <text name="T93_Help_WTF_02" text="Cette vidange n'est pas très utile pour une remorque qui ne peut porter que de l'eau, mais elle est surtout utile lorsqu'elle peut également transporter d'autres liquides, comme le carburant ou le lisier." />
+        <text name="T93_Help_WTF_03" text="Par exemple, lorsque vous venez d'apporter de l'eau à vos animaux, mais vous avez trop apporté, vous ne pourrez utiliser cette remorque pour le transport de liquides, car vous n'avez aucun moyen de vider la remorque. Maintenant tu fais." />
+        <text name="T93_Help_WTF_04" text=" " />
+        <text name="T93_Help_WTF_05" text="Contrôles par défaut:" />
+        <text name="T93_Help_WTF_06" text="Démarrer/Arrêter de drainer: CTRL + i" />
+        <text name="T93_Help_WTF_07" text=" " />
+        <text name="T93_Help_WTF_08" text="Credits:" />
+        <text name="T93_Help_WTF_09" text="Icône de mod: Chocolatecake2001 (FS-UK)" />
     </texts>
 </l10n>

@@ -5,7 +5,30 @@
     </translationContributors>
 
     <texts>
+        <!-- In-game text -->
         <text name="T93_WTF_StartDump" text="Start draining" />
         <text name="T93_WTF_StopDump" text="Stop draining" />
+
+        <!-- Help menu -->
+        <!-- Main section -->
+        <text name="T93_Help_Main_CategoryTitle" text="T93 Mods" />
+        <text name="T93_Help_Main_Title" text="T93 Mods" />
+        <text name="T93_Help_Main_01" text="Hi. I'm Tim, mostly known as Timmiej93, and I make some mods, mostly scripts." />
+        <text name="T93_Help_Main_02" text="If you're reading this, you've installed one of my mods (thanks for that). This help section automatically installs itself with each mod of mine you install." />
+        <text name="T93_Help_Main_03" text="Inside this help section, you can find a description and some useful information for each of my mods. Hopefully it helps." />
+        <text name="T93_Help_Main_04" text="If you encounter any issues with my mods, you can contact me under my normal nickname (Timmiej93) on most Farming Simulator platforms: GIANTS Forum, FS-UK Forum, Modhoster, etc.." />
+        <text name="T93_Help_Main_05" text="In case you want to contribute to any of my mods, even something small like a translation, feel free to check out my Github page, again under my normal nickname Timmiej93." />
+
+        <!-- Mod specific -->
+        <text name="T93_Help_WTF_Title" text="WaterTrailerFix" />
+        <text name="T93_Help_WTF_01" text="The WaterTrailerFix mod is very simple, it only allows you to empty your liquids trailer." />
+        <text name="T93_Help_WTF_02" text="This emptying isn't very useful for a trailer that can only carry water, but is mostly useful when it can also carry other liquids, like fuel or liquid manure." />
+        <text name="T93_Help_WTF_03" text="For example, when you just brought water to your animals, but you brought too much, you wouldn't be able to use that trailer for transporting oter liquids, since you have no means of emptying the trailer. Now you do." />
+        <text name="T93_Help_WTF_04" text=" " />
+        <text name="T93_Help_WTF_05" text="Default controls:" />
+        <text name="T93_Help_WTF_06" text="Start/Stop draining: CTRL + i" />
+        <text name="T93_Help_WTF_07" text=" " />
+        <text name="T93_Help_WTF_08" text="Credits:" />
+        <text name="T93_Help_WTF_09" text="Mod icon: Chocolatecake2001 (FS-UK)" />
     </texts>
 </l10n>

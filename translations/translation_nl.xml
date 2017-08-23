@@ -5,7 +5,30 @@
     </translationContributors>
 
     <texts>
+        <!-- In-game text -->
         <text name="T93_WTF_StartDump" text="Start leging" />
         <text name="T93_WTF_StopDump" text="Stop leging" />
+
+        <!-- Help menu -->
+        <!-- Main section -->
+        <text name="T93_Help_Main_CategoryTitle" text="T93 Mods" />
+        <text name="T93_Help_Main_Title" text="T93 Mods" />
+        <text name="T93_Help_Main_01" text="Hoi. Ik ben Tim, ook wel bekend als Timmiej93, en ik maak een paar mods, voornamelijk scripts." />
+        <text name="T93_Help_Main_02" text="Als je dit leest, heb je een van mijn mods geïnstalleerd (bedankt daarvoor). Deze help-sectie installeert zichzelf automatisch met iedere mod van mij die je installeert." />
+        <text name="T93_Help_Main_03" text="In deze help-sectie vind je een beschrijving en nuttige informatie voor iedere mod van mij die je geïnstalleerd hebt. Hopelijk heb je er wat aan." />
+        <text name="T93_Help_Main_04" text="Als je problemen tegenkomt met een van m'n mods, kan je contact met me opnemen onder mijn normale nickname (Timmiej93) op de meeste Farming Simulator websites: GIANTS Forum, FS-UK Forum, Modhoster, etc.." />
+        <text name="T93_Help_Main_05" text="Mocht het zijn dat je wat wilt bijdragen aan een van m'n mods, zelfs zoiets kleins als een vertaling, voel je vrij om m'n Github pagina te beijken, opnieuw onder mijn normale nickname Timmiej93." />
+
+        <!-- Mod specific -->
+        <text name="T93_Help_WTF_Title" text="Wateraanhanger Fix" />
+        <text name="T93_Help_WTF_01" text="De wateraanhanger fix mod is heel erg simple, die het simpelweg mogelijk maakt om je wateraanhangers te legen." />
+        <text name="T93_Help_WTF_02" text="Dit legen is niet erg nuttig voor een aanhanger die alleen water kan bevatten, maar is vooral bedoeld voor aanhangers die ook andere vloeistoffen kunnen bevatten, zoals brandstof of vloeibare mest." />
+        <text name="T93_Help_WTF_03" text="Bijvoorbeeld, als je net water naar je dieren hebt gebracht, maar je had teveel bij je, kan je die aanhanger niet meer gebruiken voor het transport van andere vloeistoffen, aangezien er nog water in zit. Met deze mod kan je je aanhanger legen, en weer overal voor gebruiken." />
+        <text name="T93_Help_WTF_04" text=" " />
+        <text name="T93_Help_WTF_05" text="Standaard besturing:" />
+        <text name="T93_Help_WTF_06" text="Start/Stop leging: CTRL + i" />
+        <text name="T93_Help_WTF_07" text=" " />
+        <text name="T93_Help_WTF_08" text="Credits:" />
+        <text name="T93_Help_WTF_09" text="Mod afbeelding: Chocolatecake2001 (FS-UK)" />
     </texts>
 </l10n>

@@ -5,7 +5,30 @@
     </translationContributors>
 
     <texts>
+        <!-- In-game text -->
         <text name="T93_WTF_StartDump" text="Start Entleerung" />
         <text name="T93_WTF_StopDump" text="Stop Entleerung" />
+
+        <!-- Help menu -->
+        <!-- Main section -->
+        <text name="T93_Help_Main_CategoryTitle" text="T93 Mods" />
+        <text name="T93_Help_Main_Title" text="T93 Mods" />
+        <text name="T93_Help_Main_01" text="Hallo. Ich bin Tim, meist bekannt als Timmiej93, und ich mache einige Mods, meistens Skripte." />
+        <text name="T93_Help_Main_02" text="Wenn du das hier liest, hast du einen meiner Mods installiert (danke dafür). Diese Hilfe-Sektion installiert sich automatisch mit jedem mod von mir." />
+        <text name="T93_Help_Main_03" text="Innerhalb dieser Hilfe findest du eine Beschreibung und einige nützliche Informationen für jeden meiner Mods. Hoffentlich hilft es." />
+        <text name="T93_Help_Main_04" text="Wenn Sie irgendwelche Probleme mit meinen Mods treffen, können Sie mich unter meinem normalen Spitznamen (Timmiej93) auf den meisten Farming Simulator Plattformen kontaktieren (Vorzugsweise in Englisch oder Niederländisch): GIANTS Forum, FS-UK Forum, Modhoster, etc.." />
+        <text name="T93_Help_Main_05" text="Wenn du zu irgendwelchen meiner Mods beitragen willst, auch etwas kleines wie eine Übersetzung, fühl dich frei, meine Github Seite an zu sehen, wieder unter meinem normalen Spitznamen Timmiej93." />
+
+        <!-- Mod specific -->
+        <text name="T93_Help_WTF_Title" text="Wasseranhänger Fix" />
+        <text name="T93_Help_WTF_01" text="Der Wasseranhänger Fix mod ist sehr einfach, es erlaubt Ihnen nur, Ihren Flüssiganhänger zu entleeren." />
+        <text name="T93_Help_WTF_02" text="Diese Entleerung ist nicht sehr nützlich für einen Anhänger, der nur Wasser tragen kann, ist aber meistens nützlich, wenn er auch andere Flüssigkeiten wie Treibstoff oder Gülle tragen kann." />
+        <text name="T93_Help_WTF_03" text="Zum Beispiel, wenn du Wasser zu deine Tieren gebracht habt, aber du hast zu viel gebracht, würdest du nicht in der Lage sein, diesen Anhänger für den Transport von andere Flüssigkeiten zu benutzen, da du keine Möglichkeit hast, den Anhänger zu entleeren. Jetzt hast du es." />
+        <text name="T93_Help_WTF_04" text=" " />
+        <text name="T93_Help_WTF_05" text="Standardkontrollen:" />
+        <text name="T93_Help_WTF_06" text="Start/Stop Entleerung: STRG + i" />
+        <text name="T93_Help_WTF_07" text=" " />
+        <text name="T93_Help_WTF_08" text="Credits:" />
+        <text name="T93_Help_WTF_09" text="Mod bild: Chocolatecake2001 (FS-UK)" />
     </texts>
 </l10n>
