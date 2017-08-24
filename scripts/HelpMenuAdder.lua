@@ -1,3 +1,18 @@
+-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --
+-- Watertrailer fix script
+--
+-- Purpose: This script adds a new category to the ESC menu help section, if it doesn't exist yet.
+--    If it doesn't exist, it adds the category, a main category, and a mod specific category.
+--    If it does exist, it adds a mod specific category to the existing category, and updates the
+--    main category if the version in this mod is higher than the other one.
+-- 
+-- Authors: Timmiej93
+--
+-- Copyright (c) Timmiej93, 2017
+-- For more information on copyright for this mod, please check the readme file on Github
+--
+-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --
+
 HelpMenuAdder = {};
 local modDir = g_currentModDirectory;
 addModEventListener(HelpMenuAdder)

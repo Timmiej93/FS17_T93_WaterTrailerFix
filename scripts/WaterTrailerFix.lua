@@ -6,7 +6,7 @@
 -- Authors: Timmiej93
 --
 -- Copyright (c) Timmiej93, 2017
--- For more information on copyright for this mod, please check the licensing file on Github
+-- For more information on copyright for this mod, please check the readme file on Github
 --
 -- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --
 

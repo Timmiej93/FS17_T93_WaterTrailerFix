@@ -1,3 +1,15 @@
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --
+-- Watertrailer fix script
+--
+-- Purpose: This XML file is required by the 'HelpMenuAdder.lua' file
+-- 
+-- Authors: Timmiej93
+--
+-- Copyright (c) Timmiej93, 2017
+-- For more information on copyright for this mod, please check the readme file on Github
+--
+-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
 
 <helpMenu version="1.0" >
