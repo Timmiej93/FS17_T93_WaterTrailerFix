@@ -1,5 +1,4 @@
 # FS17 T93 WaterTrailerFix
-***PLEASE NOTE***: This Github is still a work in progress. Please don't work on anything yet. Thank you!
 
 ***WARNING***: You're looking at a development version of this mod. If you're not interested in developing, and simply want to play Farming Simulator with this mod, download it from ModHub (link will appear when mod is released). The code here might break your savegame, your computer, or your mind. 
 
