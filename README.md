@@ -1,5 +1,4 @@
 # FS17 T93 WaterTrailerFix - Special version
-***PLEASE NOTE***: This Github is still a work in progress. Please don't work on anything yet. Thank you!
 
 ***WARNING***: You're looking at a development version of this mod. If you're not interested in developing, and simply want to play Farming Simulator with this mod, download it from ModHub (link will appear when mod is released). The code here might break your savegame, your computer, or your mind. 
 
@@ -7,6 +6,7 @@
 
 ## Special version
 This is a special version of my mod, one that will **never** be on the GIANTS ModHub, due to their restrictions. You can however install this version manually, which I'll explain below. It will have the same functionality as the normal version.
+If you want to contribute to this mod, please contribute to the ['master' branch](https://github.com/Timmiej93/FS17_T93_WaterTrailerFix), unless your contribution has something to do with the help menu adding.
 
 ### What is so special about it?
 This version adds a section in the help menu for this mod, and my mods (T93 mods) in general. While this might not be very interesting for this mod, since it's relatively simple, it's more about creating a system that works.
