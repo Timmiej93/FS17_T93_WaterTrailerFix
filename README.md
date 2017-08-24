@@ -5,8 +5,7 @@
 
 
 ## Special version
-There is a 'special' version of this mod available in another branch. It's the same mod, only with the addition of a help section. It's doesn't bring **anything** at all for the game, but it might inspire you in some way, so I put it up.
-
+There is a 'special' version of this mod available in another branch. It's the same mod, only with the addition of a help section. It's doesn't bring **anything** at all in terms of gameplay, but it might inspire you in some way, so I made it available.
 
 
 ## Publishing / Media
