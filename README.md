@@ -1,6 +1,6 @@
 # FS17 T93 WaterTrailerFix
 
-***WARNING***: You're looking at a development version of this mod. If you're not interested in developing, and simply want to play Farming Simulator with this mod, download it from ModHub (link will appear when mod is released). The code here might break your savegame, your computer, or your mind. 
+***WARNING***: You're looking at a development version of this mod. If you're not interested in developing, and simply want to play Farming Simulator with this mod, download it from [ModHub](http://farming-simulator.com/mod.php?lang=en&country=us&mod_id=87372&title=fs2017). The code here might break your savegame, your computer, or your mind. 
 
 
 
