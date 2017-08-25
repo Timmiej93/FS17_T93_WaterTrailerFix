@@ -32,3 +32,9 @@ Disclaimer: By using the code available on this website, you agree to the fact t
 
 ### Simply said
 I (Timmiej93) wrote this mod, and I have the copyright on this mod. That simply means that the code is mine. It also means that you can't just use this code for your own projects. Like stated before, only I can publish this mod in any way, shape or form. Any contributions (translations, code changes, etc.) becomes my property as soon as it's committed, otherwise I would not be able to publish this mod. If your computer crashes or is damaged in any other way due to this mod, you can tell me, and I'll try to fix it for you. I will not take any responsibility for any damage.
+
+
+
+## Credits
+Contributions that deserve special credits are mentioned here.
+- Chocolatecake2001 (FS-UK): Store image
