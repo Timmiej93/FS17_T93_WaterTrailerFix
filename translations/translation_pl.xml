@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    <translationContributors>
+        Dzi4d3k
+    </translationContributors>
+
+    <texts>
+        <text name="T93_WTF_StartDump" text="Rozpocznij opróżnianie" />
+        <text name="T93_WTF_StopDump" text="Zatrzymaj opróżnianie" />
+    </texts>
+</l10n>
