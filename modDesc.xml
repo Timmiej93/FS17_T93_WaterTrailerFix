@@ -1,35 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <modDesc descVersion="37">
     <author>Timmiej93</author>
-    <version>1.0.0.0</version>
+    <version>1.0.0.1</version>
 
     <title>
-        <en>Watertrailer fix</en>
-        <de>Wasseranhänger fix</de>
-        <nl>Wateraanhanger fix</nl>
-        <fr>Remorque d'eau fix</fr>
+        <en>Watertrailer Fix</en>
+        <de>Wasseranhänger Fix</de>
+        <nl>Wateraanhanger Fix</nl>
+        <fr>Remorque d'eau Fix</fr>
     </title>
 
     <description>
         <en>
             <![CDATA[This mod allows you to empty your water trailers, in case you have too much in there. This is especially useful for water trailers that can also carry other liquids besides water.
 
-Controls: Left CTRL + i]]>
+Controls: Left CTRL + i
+
+Changelog:
+v1.0.0.1: Fixed a log error.]]>
         </en>
         <de>
             <![CDATA[Dieser mod Ermöglicht es dir, dein Wasserfass zu entleeren, falls du zu viel drin hast. Dies ist besonderes nützlich für fasser die auch andere Flüssigkeiten neben Wasser tragen können.
 
-Tastenbelegungen: STRG links + i]]>
+Tastenbelegungen: STRG links + i
+
+Changelog:
+v1.0.0.1: Logfehler behoben.]]>
         </de>
         <nl>
             <![CDATA[Deze mod maakt het mogelijk om je wateraanhanger te legen, in het geval dat je teveel erin hebt. Dit is vooral nuttig voor aanhangers die meer vloeistoffen naast water kunnen bevatten.
 
-Besturing: Linker CTRL + i]]>
+Besturing: Linker CTRL + i
+
+Changelog:
+v1.0.0.1: Foutmelding in het log verholpen.]]>
         </nl>
         <fr>
         	<![CDATA[Ce mod vous permet de vider vos remorques d'eau, au cas où vous en avez trop. Ceci est particulièrement utile pour les remorques d'eau qui peuvent également transporter d'autres liquides en plus de l'eau.
 
-Commandes: CTRL gauche + i]]>
+Commandes: CTRL gauche + i
+
+Changelog:
+v1.0.0.1: Correction d'une erreur de log.]]>
         </fr>
     </description>
     <iconFilename>store.png</iconFilename>
@@ -37,7 +49,6 @@ Commandes: CTRL gauche + i]]>
 
     <extraSourceFiles>
         <sourceFile filename="scripts/register.lua" />
-        <sourceFile filename="scripts/HelpMenuAdder.lua" />
     </extraSourceFiles>
 
     <l10n filenamePrefix="translations/translation"/>
